@@ -5,7 +5,7 @@
 
 A Simple multi-threaded Java application which downloads images in parallel in aynchronous non-blocking fashion by reading the contents from a CSV file.
 
-Introduction
+Instructions
 =======
 
 
